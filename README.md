@@ -1,6 +1,19 @@
 ## Contoso Sales Dashboard PowerBI
 
 
+![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?logo=powerbi&logoColor=black)
+
+![DAX](https://img.shields.io/badge/DAX-Analytics-blue)
+
+![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Transformation-green)
+
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Business%20Intelligence-orange)
+
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)
+
+![Status](https://img.shields.io/badge/Project-Completed-success)
+
+
 ## 📌 Project Summary
 
 - This project is an interactive Power BI dashboard developed using the Contoso retail dataset to analyze global sales performance, profitability, customer behavior, and product trends. The dashboard transforms raw business data into actionable insights using data modeling, DAX measures, and interactive visualizations to support strategic decision-making.

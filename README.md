@@ -255,9 +255,11 @@ Explore the interactive dashboard visuals
 
 
 ## 👨‍💻 Author
-Your Name  
-- GitHub: YOUR_GITHUB_LINK  
-- LinkedIn: YOUR_LINKEDIN_LINK  
-- Portfolio: YOUR_PORTFOLIO_LINK  
+Pradnil Birje  
+Data Analyst | SQL | Python | Power BI   
+- LinkedIn:  https://www.linkedin.com/in/pradnilbirje24/
+- GitHub:  https://github.com/PradnilBirje  
+ 
 
-⭐ If you found this project useful, feel free to star the repository.
+## ⭐ Support
+If you found this project useful, feel free to star the repository.

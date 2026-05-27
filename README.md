@@ -244,14 +244,15 @@ Generated actionable insights from sales and profitability analysis.
 
 ## 🎥 Project Walkthrough Video
 
-Watch Project Demo Video  
+- Watch Project Demo Video:
+- https://www.linkedin.com/posts/pradnilbirje24_powerbi-dataanalytics-datavisualization-activity-7378763340505944064-1BAA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEbbC14B8NSwU0I8YzkjYcExH_INtUI9SH4 
 
 
 ## ▶️ Running the Project
-Download the repository
-Open the .pbix file using Power BI Desktop
-Refresh the dataset if required
-Explore the interactive dashboard visuals  
+- Download the repository  
+- Open the .pbix file using Power BI Desktop  
+- Refresh the dataset if required  
+- Explore the interactive dashboard visuals   
 
 
 ## 👨‍💻 Author

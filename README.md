@@ -21,6 +21,10 @@
 
 ## 🖼️ Dashboard Preview
 
+![Sales Dashboard](Contoso_Sales_Dashboard_Page_1.png)
+![Sales Dashboard](Contoso_Sales_Dashboard_Page_2.png)
+![Sales Dashboard](Contoso_Sales_Dashboard_Page_3.png)
+
 
 
 ## 🛠️ Tools & Technologies Used
